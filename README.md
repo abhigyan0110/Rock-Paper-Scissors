@@ -36,4 +36,4 @@
 
 3. Paper beats rocks as it wraps the Rock.
 
-4. Show a tie if both choices match.
+4. Show a tie if both choices match. 
