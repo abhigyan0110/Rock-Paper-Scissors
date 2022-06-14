@@ -3,9 +3,13 @@
 **C++ Introduction:**
 
 • C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs.
+
 • C++ gives programmers a high level of control over system resources and memory.
+
 • C++ can be found in today’s operating systems, Graphical User Interfaces (GUIs) and embedded systems.
+
 • C++ is portable and can be used to develop applications that can be adapted to multiple platforms.
+
 • C++ runs on a variety of platforms, such as Windows, Mac OS and the various versions of UNIX.
 
 **Qt Introduction:**
